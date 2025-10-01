@@ -5,3 +5,4 @@
 # Notificação toast
 - Adicionado no mainActivity.kt nas linhas de 31 à 41.
 - Serve para mostrar o que foi digitado no cmapo email e senha
+ 
